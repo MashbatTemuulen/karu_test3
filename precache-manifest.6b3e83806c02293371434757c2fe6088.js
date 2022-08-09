@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3ed17b996131a4db2349",
-    "url": "/karu_test3/static/css/main.7c8805fc.chunk.css"
+    "revision": "cb0f770a85afa66b3b2b",
+    "url": "/karu_test3/static/css/main.e8cd9301.chunk.css"
   },
   {
-    "revision": "3ed17b996131a4db2349",
-    "url": "/karu_test3/static/js/main.3ed17b99.chunk.js"
+    "revision": "cb0f770a85afa66b3b2b",
+    "url": "/karu_test3/static/js/main.cb0f770a.chunk.js"
   },
   {
     "revision": "3dd370925ab85f2a7620",
@@ -436,7 +436,7 @@ self.__precacheManifest = [
     "url": "/karu_test3/static/media/Hyakunin_Isshu (99).3a97809c.MP3"
   },
   {
-    "revision": "9cc000d7d2ced61b0ebccad733988130",
+    "revision": "0830d464b9517d1398ef8c58c32eb9b2",
     "url": "/karu_test3/index.html"
   }
 ];
