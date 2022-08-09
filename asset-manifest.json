@@ -1,7 +1,7 @@
 {
   "main.css": "/karu_test3/static/css/main.04b27135.chunk.css",
-  "main.js": "/karu_test3/static/js/main.646d7ad1.chunk.js",
-  "main.js.map": "/karu_test3/static/js/main.646d7ad1.chunk.js.map",
+  "main.js": "/karu_test3/static/js/main.52e130cc.chunk.js",
+  "main.js.map": "/karu_test3/static/js/main.52e130cc.chunk.js.map",
   "static/js/1.3dd37092.chunk.js": "/karu_test3/static/js/1.3dd37092.chunk.js",
   "static/js/1.3dd37092.chunk.js.map": "/karu_test3/static/js/1.3dd37092.chunk.js.map",
   "static/css/2.5f872035.chunk.css": "/karu_test3/static/css/2.5f872035.chunk.css",
@@ -112,9 +112,9 @@
   "static/media/Hyakunin_Isshu (97).MP3": "/karu_test3/static/media/Hyakunin_Isshu (97).159b7107.MP3",
   "static/media/Hyakunin_Isshu (98).MP3": "/karu_test3/static/media/Hyakunin_Isshu (98).5feba8da.MP3",
   "static/media/Hyakunin_Isshu (99).MP3": "/karu_test3/static/media/Hyakunin_Isshu (99).3a97809c.MP3",
-  "static/css/main.04b27135.chunk.css.map": "/karu_test3/static/css/main.04b27135.chunk.css.map",
   "static/css/2.5f872035.chunk.css.map": "/karu_test3/static/css/2.5f872035.chunk.css.map",
+  "static/css/main.04b27135.chunk.css.map": "/karu_test3/static/css/main.04b27135.chunk.css.map",
   "index.html": "/karu_test3/index.html",
-  "precache-manifest.2d7002961f26bbd26bf85ce0d3d7ffbb.js": "/karu_test3/precache-manifest.2d7002961f26bbd26bf85ce0d3d7ffbb.js",
+  "precache-manifest.72bb94f7b14e59b53eaf42965c04f224.js": "/karu_test3/precache-manifest.72bb94f7b14e59b53eaf42965c04f224.js",
   "service-worker.js": "/karu_test3/service-worker.js"
 }
